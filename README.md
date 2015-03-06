@@ -1,4 +1,4 @@
-lebiniou4
+LeBiniou4
 =========
 
-Configuration files for LeBiniou v4
+Wiki & configuration files for LeBiniou v4
